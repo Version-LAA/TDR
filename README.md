@@ -1,8 +1,8 @@
 # The Detection Resource (TDR)
 
-<img width="725" alt="Screenshot 2024-10-30 at 12 18 51 PM" src="https://github.com/user-attachments/assets/efa494b5-1a59-4b7d-93ff-60c8ff926d6c">
-
 Welcome to The Detection Resource (TDR), a community-driven platform for crowdsourcing cybersecurity detection rules and research. TDR aims to empower the cybersecurity community by facilitating collaboration, sharing of detection methods, and continuous situational awareness of emerging threats.
+
+<img width="725" alt="Screenshot 2024-10-30 at 12 18 51 PM" src="https://github.com/user-attachments/assets/efa494b5-1a59-4b7d-93ff-60c8ff926d6c">
 
 ## Purpose
 The goal of TDR is to create an open and collaborative environment where cybersecurity professionals, researchers, and enthusiasts can:
